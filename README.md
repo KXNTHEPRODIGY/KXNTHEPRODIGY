@@ -1,9 +1,9 @@
-## HEY i'm Tener👋
+## HEY i'm Tener
 
 ## About me
 - Data Analyst and Developer
--🔭 Data Analyst (Pacific Tides)
-- 💻2x hackathon winner
+-  Data Analyst ([Pacific Tides](https://x.com/pacifictidesbot))
+- 2x hackathon winner
 
 ## 🛠 Tech Stack
 
