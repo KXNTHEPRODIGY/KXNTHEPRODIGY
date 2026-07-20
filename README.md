@@ -20,13 +20,13 @@
 
 ![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)
 
-](https://x.com/Web3kxn_)
-[
+(https://x.com/Web3kxn_)
+
 
 
 ![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)
 
-](https://t.me/kxntheprodigy)
+(https://t.me/kxntheprodigy)
 
 <!--
 **KXNTHEPRODIGY/KXNTHEPRODIGY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
